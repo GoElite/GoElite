@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GoElite
-- 👀 I’m interested in open source contribution, collaborating on different projects.
+- 👀 I’m interested in open source contribution, collaborating on different projects and learning.
 - 🌱 I’m currently learning different frameworks for developing android and web applications.
 - 📫 Reach me through E-mail -> ayushsingh28og@gmail.com 
 
